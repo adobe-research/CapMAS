@@ -1,0 +1,40 @@
+{
+  "questions": [
+    "Where was the photo taken?\nA) In a city park\nB) On a sidewalk or pavement\nC) Inside a house\nD) In a classroom",
+    "What is in the center of the photo?\nA) A tree\nB) A person\nC) The words \"Fear of Chores\"\nD) A building",
+    "What material is used for the writing in the photo?\nA) Paint\nB) Chalk\nC) Marker\nD) Pen",
+    "What is the background of the photo?\nA) A clear blue sky\nB) A concrete or pavement surface\nC) A grassy field\nD) A wall with graffiti",
+    "What is the color of the writing in the photo?\nA) Black\nB) White\nC) Red\nD) Blue",
+    "What is the photo's perspective?\nA) Aerial view\nB) Eye-level view\nC) Close-up view\nD) Side view",
+    "What element is not present in the photo?\nA) People\nB) Animals\nC) Trees\nD) All of the above",
+    "What is the size of the writing in the photo?\nA) Very small\nB) Medium-sized\nC) Large\nD) Tiny",
+    "What is the angle of the photo?\nA) Tilted\nB) Straight-on\nC) From above\nD) From below",
+    "What is the clarity of the writing?\nA) Very clear and legible\nB) Slightly blurred\nC) Completely unreadable\nD) Partially visible",
+    "What is the direction of the writing?\nA) Horizontal\nB) Vertical\nC) Diagonal\nD) Circular",
+    "What is missing from the photo?\nA) Colorful decorations\nB) Additional text\nC) People\nD) Vehicles",
+    "What is the visual style of the writing?\nA) Cursive\nB) Block letters\nC) Graffiti\nD) Calligraphy",
+    "What is the alignment of the text in the photo?\nA) Centered\nB) Left-aligned\nC) Right-aligned\nD) Justified",
+    "What is the possible weather condition when the photo was taken?\nA) Rainy\nB) Sunny\nC) Snowy\nD) Windy",
+    "What is the possible location of the photo?\nA) A residential area\nB) A commercial area\nC) A rural area\nD) An industrial area",
+    "What is the likely surface material?\nA) Asphalt\nB) Concrete\nC) Grass\nD) Wood"
+  ],
+  "answers": [
+    "B",
+    "C",
+    "B",
+    "B",
+    "B",
+    "C",
+    "D",
+    "B",
+    "B",
+    "A",
+    "B",
+    "C",
+    "C",
+    "A",
+    "A",
+    "A",
+    "B"
+  ]
+}

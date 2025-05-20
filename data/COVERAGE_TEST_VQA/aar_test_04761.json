@@ -1,0 +1,38 @@
+{
+  "questions": [
+    "What is the main focus of the photo?\nA) A building\nB) A piece of clothing\nC) A landscape\nD) A person",
+    "What type of clothing is being displayed in the photo?\nA) A formal suit\nB) A casual dress\nC) A knitted outfit\nD) A sports uniform",
+    "What is the color scheme of the clothing?\nA) Bright and vibrant colors\nB) Dark and muted tones\nC) Light and neutral tones\nD) Metallic shades",
+    "What is in the background of the photo?\nA) A busy street\nB) A tent or booth\nC) A mountain range\nD) A beach scene",
+    "What is the clothing item displayed on?\nA) A mannequin\nB) A hanger\nC) A person\nD) A table",
+    "What element is prominently featured on the front of the clothing?\nA) Zippers\nB) Buttons\nC) Pockets\nD) Embroidery",
+    "What is the ground in the foreground of the photo covered with?\nA) Sand\nB) Grass\nC) Concrete\nD) Snow",
+    "What additional items can be seen in the background of the photo?\nA) Other pieces of clothing\nB) Food items\nC) Electronic gadgets\nD) Books",
+    "What is the lighting like in the photo?\nA) Dim and dark\nB) Bright and sunny\nC) Artificial and harsh\nD) Soft and diffused",
+    "What is the length of the clothing item in the photo?\nA) Short\nB) Knee-length\nC) Ankle-length\nD) Floor-length",
+    "What is the condition of the grass in the foreground?\nA) Lush and green\nB) Dry and brown\nC) Covered in snow\nD) Sandy and sparse",
+    "What type of sleeves does the clothing item have?\nA) Short sleeves\nB) Long sleeves\nC) Sleeveless\nD) Cap sleeves",
+    "What kind of surface is the tent or booth set up on?\nA) Pavement\nB) Wooden platform\nC) Grass\nD) Sand",
+    "What kind of design detail is visible on the clothing?\nA) Stripes\nB) Ruffles\nC) Sequins\nD) Plaid",
+    "What is the primary focus of the background?\nA) Natural scenery\nB) Architectural structures\nC) Cloths and tent\nD) People",
+    "What kind of neckline does the clothing item have?\nA) V-neck\nB) Crew neck\nC) Hooded\nD) Off-the-shoulder"
+  ],
+  "answers": [
+    "B",
+    "C",
+    "C",
+    "B",
+    "A",
+    "B",
+    "B",
+    "A",
+    "B",
+    "D",
+    "A",
+    "B",
+    "B",
+    "B",
+    "C",
+    "C"
+  ]
+}

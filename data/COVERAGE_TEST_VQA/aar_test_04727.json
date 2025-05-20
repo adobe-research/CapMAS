@@ -1,0 +1,40 @@
+{
+  "questions": [
+    "What word is prominently displayed in the photo?\nA) SCIENCE\nB) MATHEMATICS\nC) LITERATURE\nD) ART",
+    "What is the background color in the photo?\nA) Red\nB) Green\nC) Blue\nD) Yellow",
+    "What is the surface under the object in the photo?\nA) Grass\nB) Carpet\nC) Brick\nD) Sand",
+    "What type of setting is depicted in the photo?\nA) Indoor\nB) Outdoor\nC) Underwater\nD) Underground",
+    "What is the style of the letters cut into the object?\nA) Cursive\nB) Block\nC) Italic\nD) Comic Sans",
+    "What does the photo mainly depict?\nA) A landscape\nB) A piece of furniture\nC) A vehicle\nD) An animal",
+    "What kind of pattern is on the ground in the photo?\nA) Stripes\nB) Polka dots\nC) Brick layout\nD) Checkerboard",
+    "What is the angle of the photo?\nA) Aerial view\nB) Eye level\nC) Low angle\nD) High angle",
+    "What is the shape of the letters on the object?\nA) Rounded\nB) Angular\nC) Scripted\nD) Abstract",
+    "What is the material of the ground in the photo?\nA) Concrete\nB) Brick\nC) Wood\nD) Tile",
+    "What kind of design is on the object in the photo?\nA) Minimalistic\nB) Ornate\nC) Abstract\nD) Geometric",
+    "What is the most prominent feature of the object in the photo?\nA) Color\nB) Shape\nC) Text\nD) Texture",
+    "What is the dominant color in the background of the photo?\nA) Red\nB) Green\nC) Blue\nD) Yellow",
+    "What is the condition of the letters on the object?\nA) Faded\nB) Clear\nC) Broken\nD) Painted over",
+    "What is the primary subject of the photo?\n   A) A park\n   B) A bench\n   C) A MATHEMATICS word\n   D) A sign",
+    "What material is the object with the word \"MATHEMATICS\" made of?\n   A) Wood\n   B) Plastic\n   C) Metal or wood\n   D) Stone",
+    "What type of surface is shown in the foreground?\n   A) Grass\n   B) Sand\n   C) Brick\n   D) Concrete"
+  ],
+  "answers": [
+    "B",
+    "C",
+    "C",
+    "B",
+    "B",
+    "B",
+    "C",
+    "B",
+    "D",
+    "B",
+    "C",
+    "C",
+    "C",
+    "B",
+    "C",
+    "C",
+    "C"
+  ]
+}

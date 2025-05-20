@@ -1,0 +1,40 @@
+{
+  "questions": [
+    "What is the photo about?\nA) Nature and landscapes\nB) Daily life and people\nC) Art and culture\nD) Textures and surfaces",
+    "What situation does the photo depict?\nA) A peaceful nature scene\nB) A textured surface\nC) A sports event\nD) A family gathering",
+    "What is the main focus of the photo?\nA) A group of people\nB) A text on a textured wall\nC) A piece of art\nD) A natural landscape",
+    "What is in the center of the photo?\nA) A person\nB) A tree\nC) A textured surface\nD) A building",
+    "What color dominates the photo?\nA) Green\nB) Blue\nC) Gray\nD) Red",
+    "What can be inferred about the texture of the surface?\nA) It is smooth\nB) It is rough\nC) It is glossy\nD) It is soft",
+    "What is the visual impression of the surface?\nA) It looks delicate\nB) It looks sturdy\nC) It looks fragile\nD) It looks transparent",
+    "What is the texture’s pattern?\nA) Geometric\nB) Random\nC) Symmetrical\nD) Floral",
+    "How does the texture affect the overall appearance of the surface?\nA) Makes it look sleek\nB) Makes it look rugged\nC) Makes it look delicate\nD) Makes it look modern",
+    "Is there any visible text or inscription on the surface?\nA) Yes\nB) No",
+    "What does the text on the surface say?\nA) A name\nB) A date\nC) A word or phrase\nD) A number",
+    "How clear is the text on the surface?\nA) Very clear\nB) Somewhat clear\nC) Difficult to read\nD) Not visible",
+    "What is the length of the text on the surface?\nA) 1-2 characters\nB) 3-5 characters\nC) 6-8 characters\nD) More than 8 characters",
+    "What is the orientation of the text on the surface?\nA) Horizontal\nB) Vertical\nC) Diagonal\nD) Circular",
+    "What is the texture of the text compared to the surface?\nA) Smoother\nB) Rougher\nC) The same\nD) Indistinguishable",
+    "How does the text integrate with the texture?\nA) It stands out\nB) It blends in\nC) It is partially visible\nD) It is not visible at all",
+    "What kind of surface is shown in the photo?\nA) Smooth\nB) Textured\nC) Reflective\nD) Transparent"
+  ],
+  "answers": [
+    "D",
+    "B",
+    "B",
+    "C",
+    "C",
+    "B",
+    "A",
+    "B",
+    "B",
+    "A",
+    "C",
+    "B",
+    "C",
+    "A",
+    "C",
+    "C",
+    "B"
+  ]
+}

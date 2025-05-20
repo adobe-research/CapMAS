@@ -1,0 +1,40 @@
+{
+  "questions": [
+    "What is mainly focused on in the photo?\nA) A tree\nB) A building\nC) Chalk markings on the ground/Wall\nD) A person",
+    "What is in the center of the photo?\nA) A flower\nB) A vehicle\nC) The word \"LINK\"\nD) A bench",
+    "What is in the foreground of the photo?\nA) Grass\nB) Sand\nC) Concrete pavement with markings\nD) A statue",
+    "What colors are primarily used in the markings?\nA) Blue and green\nB) Red and yellow\nC) White and orange\nD) Black and purple",
+    "What material is the surface in the photo made of?\nA) Wood\nB) Metal\nC) Concrete\nD) Grass",
+    "What word is prominently displayed in the photo?\nA) STOP\nB) LINK & PBL\nC) GO\nD) HELP",
+    "What is written above the word \"LINK\"?\nA) ABC\nB) XYZ\nC) PBL\nD) 123",
+    "What is the orientation of the markings in the photo?\nA) Vertical\nB) Horizontal\nC) Diagonal\nD) Circular",
+    "What is the shape of the marking that contains the word \"LINK\"?\nA) Circle\nB) Square\nC) Quadrilateral\nD) Triangle",
+    "What is the color of the surface in the photo?\nA) Brown\nB) Green\nC) Gray\nD) Blue",
+    "What is the marking style in the photo?\nA) Handwritten\nB) Stenciled\nC) Spray-painted\nD) Printed",
+    "What is the texture of the markings?\nA) Raised\nB) Indented\nC) Flat\nD) Rough",
+    "What is the likely color of the marking tool used?\nA) Yellow and black\nB) White and orange\nC) Red and blue\nD) Green and purple",
+    "What is the shape of the marking that contains \"PBL\"?\nA) Circle\nB) Hexagon\nC) Quadrilateral\nD) Pentagon",
+    "What is the likely action related to the markings?\nA) Digging\nB) Painting\nC) Cleaning\nD) Planting",
+    "What is the likely material of the marking tool?\nA) Chalk\nB) Spray paint\nC) Marker\nD) Tape",
+    "What word is clearly visible in the markings?\nA) TREE\nB) LINK & PBL\nC) STOP\nD) GO"
+  ],
+  "answers": [
+    "C",
+    "C",
+    "C",
+    "C",
+    "C",
+    "B",
+    "C",
+    "A",
+    "C",
+    "A",
+    "A",
+    "D",
+    "B",
+    "C",
+    "B",
+    "A",
+    "B"
+  ]
+}

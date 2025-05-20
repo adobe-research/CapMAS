@@ -1,0 +1,34 @@
+{
+  "questions": [
+    "What is the photo about?\nA) Nature and landscapes\nB) Daily life and people\nC) City architecture and buildings\nD) Wildlife and animals",
+    "What is in the background of the photo?\nA) Mountains\nB) Modern buildings\nC) A lake\nD) A forest",
+    "What type of architecture is prominently featured in the photo?\nA) Modern\nB) Gothic\nC) Classical\nD) Futuristic",
+    "What appears on the right side of the photo?\nA) A river\nB) A sign for \"Hadson Realty\"\nC) A tree\nD) A car",
+    "What does the sign on the right side of the photo advertise?\nA) A restaurant\nB) A park\nC) Real estate services\nD) A clothing store",
+    "What is the condition of the sign on the right side of the photo?\nA) Brand new\nB) Slightly faded\nC) Completely unreadable\nD) Neon-lit",
+    "What is the architectural style of the building in the center?\nA) Modern\nB) Baroque\nC) Classical\nD) Art Deco",
+    "What is the purpose of the Hadson Realty sign?\nA) To advertise food\nB) To promote real estate services\nC) To announce a festival\nD) To display artwork",
+    "What is the texture of the building in the foreground?\nA) Smooth\nB) Rough and ornate\nC) Glossy\nD) Metallic",
+    "What is the primary color of the historical building in the center?\nA) Red\nB) Blue\nC) Beige/Gray\nD) Green",
+    "What is the likely function of the building with the sign on the right?\nA) Residential\nB) Educational\nC) Commercial\nD) Industrial",
+    "What is the condition of the historical building in the center?\nA) Newly built\nB) Well-preserved\nC) Dilapidated\nD) Under construction",
+    "What is the height of the historical building in comparison to the surrounding buildings?\nA) Shorter\nB) Taller\nC) The same height\nD) It is not clear",
+    "What is the primary purpose of the building with the sign?\nA) Residential apartments\nB) Office spaces and realty services\nC) Retail stores\nD) Entertainment venues"
+  ],
+  "answers": [
+    "C",
+    "B",
+    "C",
+    "B",
+    "C",
+    "B",
+    "C",
+    "B",
+    "B",
+    "C",
+    "C",
+    "C",
+    "A",
+    "B"
+  ]
+}

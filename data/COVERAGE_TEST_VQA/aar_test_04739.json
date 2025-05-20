@@ -1,0 +1,36 @@
+{
+  "questions": [
+    "What is in the foreground of the photo?\nA) A river\nB) Large cookie-shaped decorations\nC) A sports field\nD) A group of people",
+    "What colors are predominantly seen in the decorations?\nA) Blue and white\nB) Red and green\nC) Multiple bright colors including blue, pink, and orange\nD) Black and white",
+    "What kind of lighting is used in the photo?\nA) Natural sunlight\nB) String lights\nC) Street lamps\nD) Candlelight",
+    "How many decorated trees are visible in the photo?\nA) 3\nB) 5\nC) 8\nD) 10",
+    "What shapes are the decorations in the foreground?\nA) Cylindrical\nB) Circular and resembling cookies\nC) Square\nD) Triangular",
+    "What type of ornaments are on the trees?\nA) Natural elements like pinecones\nB) Candy-themed ornaments\nC) Sports memorabilia\nD) Historical artifacts",
+    "What is the primary color of the background lighting?\nA) Red\nB) Blue\nC) Green\nD) Yellow and blue",
+    "How are the lights arranged in the background?\nA) In random clusters\nB) In a grid pattern\nC) In straight lines\nD) In circular patterns",
+    "What element is most likely to catch viewers' attention first?\nA) The detailed building structure\nB) The colorful and brightly lit trees\nC) The people interacting in the scene\nD) The natural landscape",
+    "What is the primary material of the decorations in the background?\nA) Metal\nB) Plastic and lights\nC) Wood\nD) Glass",
+    "What is the primary color of the trees?\nA) Green\nB) Blue\nC) White\nD) Mixed bright colors",
+    "What is the primary decorative element on the trees?\nA) Ribbons\nB) Candy-themed ornaments\nC) Flowers\nD) Animal figures",
+    "What is in the center of the photo?\nA) A large building\nB) A group of people\nC) Decorated Christmas trees\nD) A fountain",
+    "How are the trees illuminated?\nA) With candles\nB) With string lights\nC) With lanterns\nD) With natural sunlight",
+    "What is the lighting like in the photo?\nA) Natural daylight\nB) Dim and moody\nC) Colorful\nD) Dark and shadowy"
+  ],
+  "answers": [
+    "B",
+    "C",
+    "B",
+    "D",
+    "B",
+    "B",
+    "D",
+    "B",
+    "B",
+    "B",
+    "D",
+    "B",
+    "C",
+    "B",
+    "C"
+  ]
+}

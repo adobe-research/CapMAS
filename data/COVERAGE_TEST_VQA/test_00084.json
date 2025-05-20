@@ -1,0 +1,38 @@
+{
+  "questions": [
+    "What is the photo about?\n   A) A nature scene\n   B) A sign\n   C) A sports event\n   D) A family gathering",
+    "What situation does the photo depict?\n   A) A peaceful nature scene\n   B) An illuminated sign\n   C) A sports event\n   D) A family gathering",
+    "What is the main focus of the photo?\n   A) People\n   B) Animals\n   C) A sign\n   D) A landscape",
+    "What is in the center of the photo?\n   A) A tree\n   B) A person\n   C) The word \"Kick\"\n   D) A car",
+    "What is in the background of the photo?\n   A) Mountains\n   B) A beach\n   C) A wooden wall\n   D) A busy street",
+    "What is in the foreground of the photo?\n   A) A table\n   B) A sign\n   C) A flower bed\n   D) A river",
+    "What material is the background wall made of?\n   A) Brick\n   B) Concrete\n   C) Wood\n   D) Glass",
+    "What is the color of the sign's text?\n   A) Red\n   B) Blue\n   C) White\n   D) Green",
+    "What kind of lettering does the sign have?\n    A) Cursive\n    B) Bold block letters\n    C) Italic\n    D) Handwritten",
+    "What is the color of the background wall?\n    A) White\n    B) Black\n    C) Brown\n    D) Blue",
+    "What can be seen behind the sign in the background?\n    A) Trees\n    B) Posters\n    C) Windows\n    D) Cars",
+    "What is the lighting condition in the photo?\n    A) Bright daylight\n    B) Dim indoor lighting\n    C) Sunset lighting\n    D) Dark night",
+    "What is the style of the sign?\n    A) Modern\n    B) Vintage\n    C) Rustic\n    D) Industrial",
+    "What is the alignment of the text on the sign?\n    A) Centered\n    B) Left-aligned\n    C) Right-aligned\n    D) Justified",
+    "Is there any visible wiring in the photo?\n    A) Yes\n    B) No",
+    "What is the texture of the letters on the sign?\n    A) Smooth\n    B) Rough\n    C) Textured\n    D) Reflective"
+  ],
+  "answers": [
+    "B",
+    "B",
+    "C",
+    "C",
+    "C",
+    "B",
+    "C",
+    "C",
+    "B",
+    "C",
+    "B",
+    "B",
+    "A",
+    "A",
+    "B",
+    "D"
+  ]
+}

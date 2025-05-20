@@ -1,0 +1,42 @@
+{
+  "questions": [
+    "What is the photo about?\nA) Nature and landscapes\nB) Daily life and people\nC) A flower illustration on a stone structure\nD) Wildlife and animals",
+    "What is the main focus of the photo?\nA) A person\nB) A flower illustration on a stone structure\nC) An animal\nD) A building",
+    "What is in the center of the photo?\nA) A tree\nB) A flower illustration on a stone structure\nC) A person\nD) A bench",
+    "What is in the background of the photo?\nA) A busy street\nB) A lake and trees\nC) A building\nD) A playground",
+    "What is in the foreground of the photo?\nA) A flower bed\nB) A stone structure with a flower illustration\nC) A person sitting on a bench\nD) A car",
+    "What type of flower is illustrated on the stone structure?\nA) Rose\nB) Southern Magnolia\nC) Tulip\nD) Sunflower",
+    "What material is the structure made of?\nA) Wood\nB) Brick\nC) Stone\nD) Metal",
+    "What is the color of the flower in the illustration?\nA) Red\nB) Yellow\nC) White\nD) Pink",
+    "What is the color of the leaves in the illustration?\nA) Red\nB) Green\nC) Blue\nD) Yellow",
+    "What is visible behind the railing in the photo?\nA) A playground\nB) A parking lot\nC) A lake and trees\nD) A street",
+    "How is the flower illustration framed on the stone structure?\nA) With a wooden frame\nB) With a metal frame\nC) With a stone frame\nD) With a plastic frame",
+    "What is the position of the flower illustration on the stone structure?\nA) At the top\nB) In the middle\nC) At the bottom\nD) On the side",
+    "What is the texture of the stone structure?\nA) Smooth\nB) Rough\nC) Polished\nD) Glossy",
+    "How many leaves are depicted in the flower illustration?\nA) Two\nB) Three\nC) Four\nD) Five",
+    "What is written below the flower illustration?\nA) The name of the flower\nB) A quote\nC) A date\nD) A person's name",
+    "What is the color of the railing?\nA) Black\nB) Green\nC) White\nD) Blue",
+    "What kind of plants are visible in the background?\nA) Flowers\nB) Shrubs\nC) Trees\nD) Grass",
+    "What material is the stone structure made of?\nA) Brick\nB) Wood\nC) Metal\nD) Stone"
+  ],
+  "answers": [
+    "C",
+    "B",
+    "B",
+    "B",
+    "B",
+    "B",
+    "C",
+    "C",
+    "B",
+    "C",
+    "C",
+    "A",
+    "B",
+    "D",
+    "A",
+    "B",
+    "C",
+    "D"
+  ]
+}

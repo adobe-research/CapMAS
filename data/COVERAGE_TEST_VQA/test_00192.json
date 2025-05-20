@@ -1,0 +1,26 @@
+{
+  "questions": [
+    "What is the photo about?\nA) Nature and landscapes\nB) Daily life and people\nC) Art and culture\nD) Science and technology",
+    "What is mainly focused on in the photo?\nA) A group of people\nB) An animal\nC) A technological device\nD) A piece of art",
+    "What is in the center of the photo?\nA) A tree\nB) A person\nC) A beam of light\nD) A painting",
+    "What is in the foreground of the photo?\nA) Flowers\nB) Sand\nC) A cylindrical tube\nD) A dining table",
+    "What is the color of the light in the photo?\nA) Red\nB) Blue\nC) Green\nD) Yellow",
+    "What is the shape of the object in the center of the photo?\nA) Circular\nB) Rectangular\nC) Cylindrical\nD) Triangular",
+    "What is the predominant color in the photo?\nA) Green\nB) Red\nC) Blue\nD) Yellow",
+    "What is the relationship between the light and the tube?\nA) The light is outside the tube\nB) The light is inside the tube\nC) The light is reflected on the tube\nD) The light is behind the tube",
+    "What is the shape of the light inside the tube?\nA) Straight line\nB) Circular\nC) Zigzag or wavy line\nD) Spiral",
+    "What color is prominently featured in the photo?\nA) Green\nB) Red\nC) Blue\nD) Yellow"
+  ],
+  "answers": [
+    "D",
+    "C",
+    "C",
+    "C",
+    "B",
+    "C",
+    "C",
+    "B",
+    "C",
+    "C"
+  ]
+}

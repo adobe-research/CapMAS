@@ -1,0 +1,40 @@
+{
+  "questions": [
+    "What is the main focus of the photo?\nA) A group of people\nB) A large sculpture\nC) A landscape\nD) A building",
+    "What is in the center of the photo?\nA) A tree\nB) A painting\nC) A sculpture\nD) A person",
+    "What is the shape of the object in the center?\nA) Spherical\nB) Cylindrical\nC) Rectangular\nD) Triangular",
+    "What is the color of the sculpture?\nA) Brightly colored\nB) Dark\nC) White\nD) Transparent",
+    "What is in the background of the photo?\nA) A busy street\nB) A forest\nC) A plain wall\nD) A crowd of people",
+    "What is in the foreground of the photo?\nA) A body of water\nB) Grass and trees\nC) The floor and part of the sculpture\nD) A table with objects",
+    "What kind of environment is the sculpture placed in?\nA) Outdoor\nB) Indoor\nC) Underwater\nD) Underground",
+    "How many blocks make up the sculpture?\nA) One\nB) Two\nC) Three\nD) Four",
+    "What is the lighting like in the photo?\nA) Dark and shadowy\nB) Bright and well-lit\nC) Dim and moody\nD) Colorful and vibrant",
+    "What kind of art style does the sculpture represent?\nA) Realistic\nB) Abstract\nC) Impressionistic\nD) Surrealistic",
+    "What is the likely material of the floor in the photo?\nA) Carpet\nB) Wood\nC) Concrete or polished stone\nD) Grass",
+    "Are there any visible signs or labels in the photo?\nA) Yes\nB) No",
+    "What kind of lighting is used in the environment?\nA) Natural sunlight\nB) Artificial indoor lighting\nC) Candlelight\nD) Neon lights",
+    "What is the likely era of the sculpture's creation?\nA) Ancient\nB) Medieval\nC) Modern\nD) Futuristic",
+    "What is the color of the central object?\nA) Blue\nB) Red\nC) Black\nD) Green",
+    "What is the texture of the central object?\nA) Smooth and shiny\nB) Rough and rusty\nC) Soft and fluffy\nD) Wet and slippery",
+    "How many blocks make up the central object?\nA) One\nB) Two\nC) Three\nD) Four"
+  ],
+  "answers": [
+    "B",
+    "C",
+    "C",
+    "B",
+    "C",
+    "C",
+    "B",
+    "B",
+    "B",
+    "B",
+    "C",
+    "B",
+    "B",
+    "C",
+    "C",
+    "B",
+    "B"
+  ]
+}

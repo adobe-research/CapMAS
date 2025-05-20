@@ -1,0 +1,40 @@
+{
+  "questions": [
+    "What is the main focus of the photo?\nA) A dog\nB) A cat\nC) A bird\nD) A squirrel",
+    "What is the cat wearing?\nA) A harness\nB) A collar\nC) A sweater\nD) A hat",
+    "What is the cat's position in the photo?\nA) Sitting on a window sill\nB) Lying on a couch\nC) Standing on a table\nD) Playing with a toy",
+    "What is in the center of the photo?\nA) The cat’s face\nB) The cat’s back\nC) The window\nD) The garden",
+    "What is visible in the foreground of the photo?\nA) The cat’s head\nB) The garden\nC) A bird feeder\nD) A tree",
+    "What is the cat’s fur color?\nA) White\nB) Black\nC) Grey\nD) Brown",
+    "What is the texture of the cat’s collar?\nA) Smooth\nB)  woolly\nC) Shiny\nD) Spiky",
+    "What can be inferred about the cat's interest?\nA) The cat is interested in something outside\nB) The cat is bored\nC) The cat is sleeping\nD) The cat is playing with a toy",
+    "What is the cat’s perspective in the photo?\nA) Looking up\nB) Looking down\nC) Looking straight ahead\nD) Looking to the side",
+    "What is the cat’s posture?\nA) Lying down\nB) Sitting upright\nC) Standing\nD) Stretching",
+    "What is the primary activity happening in the photo?\nA) The cat watching something\nB) The cat playing\nC) The cat eating\nD) The cat sleeping",
+    "What is the condition of the glass in the window?\nA) Clean\nB) Dirty\nC) Broken\nD) Frosted",
+    "What is the main action taking place in the photo?\nA) The cat watching something outside\nB) The cat playing with a toy\nC) The cat eating food\nD) The cat sleeping",
+    "What is the light source in the photo?\nA) Natural light\nB) Artificial light\nC) Candlelight\nD) Flashlight",
+    "What is the cat’s position relative to the window?\nA) Close to the window\nB) Far from the window\nC) On the window\nD) Behind the window",
+    "What can be inferred about the cat’s environment?\nA) Indoor with a view of a yard\nB) Outdoor in a park\nC) Indoor with a view of a city\nD) Outdoor in a forest",
+    "What situation does the photo depict?\nA) A peaceful nature scene\nB) A cat looking out a window\nC) A quiet street scene\nD) A family gathering"
+  ],
+  "answers": [
+    "B",
+    "B",
+    "A",
+    "B",
+    "A",
+    "C",
+    "B",
+    "A",
+    "B",
+    "B",
+    "A",
+    "A",
+    "A",
+    "A",
+    "A",
+    "A",
+    "B"
+  ]
+}

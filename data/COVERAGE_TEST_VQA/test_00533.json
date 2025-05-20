@@ -1,0 +1,28 @@
+{
+  "questions": [
+    "What is the primary color of the central area in the photo?\nA) Red\nB) Blue\nC) Gray\nD) Green and brown",
+    "What is the shape of the central area in the photo?\nA) Circular\nB) Rectangular\nC) Triangular\nD) Irregular",
+    "What is the dominant color in the surrounding area of the photo?\nA) Black\nB) White\nC) Silver\nD) Brown",
+    "What is the texture of the central area in the photo?\nA) Rough\nB) Smooth\nC) Grainy\nD) Glossy",
+    "What might the central area of the photo represent?\nA) A wall\nB) A mixture of mud and grass\nC) A screen\nD) A piece of paper",
+    "What is the orientation of the photo?\nA) Portrait\nB) Landscape\nC) Square\nD) Panoramic",
+    "What is the likely setting of the photo?\nA) Indoors\nB) Outdoors\nC) Virtual\nD) Studio",
+    "What is the visual emphasis in the photo?\nA) Central area\nB) Surrounding area\nC) Background\nD) Foreground",
+    "What is the likely subject of the photo?\nA) An object\nB) A whole on a concrete surface\nC) A place\nD) An abstract concept",
+    "What is the likely genre of the photo?\nA) Abstract\nB) Portrait\nC) Landscape\nD) Still life",
+    "What can be seen in the center of the photo?\nA) A person\nB) A tree\nC) A pothole \nD) A vehicle"
+  ],
+  "answers": [
+    "D",
+    "A",
+    "D",
+    "A",
+    "B",
+    "B",
+    "B",
+    "A",
+    "B",
+    "B",
+    "C"
+  ]
+}

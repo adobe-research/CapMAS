@@ -1,0 +1,42 @@
+{
+  "questions": [
+    "What is the photo about?\nA) Nature and landscapes\nB) Daily life and people\nC) A two cones\nD) Wildlife and animals",
+    "What color are the cones in the photo?\nA) Red\nB) Blue\nC) Yellow\nD) Green",
+    "What is the background color of the surface where the cones are placed?  \nA) Blue  \nB) Warm green  \nC) Red  \nD) Yellow",
+    "What is in the center of the photo?\nA) A tree\nB) A person\nC) Two yellow cones\nD) A building",
+    "What is in the foreground of the photo?\nA) Grass\nB) Water\nC) Two yellow cones\nD) A bench",
+    "What is in the background of the photo?\nA) A building\nB) A red section of the sports court\nC) Trees\nD) A street",
+    "How many cones are there in the photo?\nA) One\nB) Two\nC) Three\nD) Four",
+    "What is the shape of the cones?\nA) Spherical\nB) Cubical\nC) Conical\nD) Cylindrical",
+    "What is the texture of the surface where the cones are placed?\nA) Rough\nB) Smooth\nC) Rocky\nD) Grassy",
+    "What is the predominant color scheme of the photo?  \nA) Blue and white  \nB) Green and yellow  \nC) Red and gray  \nD) Black and white",
+    "What is the orientation of the cones in relation to each other?\nA) They are placed diagonally\nB) They are placed side by side\nC) They are placed one behind the other\nD) They are placed randomly",
+    "What is the primary color of the cones?\nA) Blue\nB) Red\nC) Yellow\nD) Green",
+    "What is the shape of the black bases under the cones?\nA) Circular\nB) Square\nC) Triangular\nD) Hexagonal",
+    "What is the relationship between the cones and the surface?\nA) The cones are floating\nB) The cones are attached to the surface\nC) The cones are simply placed on the surface\nD) The cones are embedded in the surface",
+    "What is the likely material of the cones?\nA) Metal\nB) Plastic\nC) Wood\nD) Rubber",
+    "What is the likely color of the white lines in the photo?\nA) Yellow\nB) Blue\nC) White\nD) Red",
+    "What is the primary color of the sports court surface in the foreground?\nA) Red\nB) Blue\nC) Green and red\nD) Yellow",
+    "What is the color of the lines on the court?\n    A) Red\n    B) Blue\n    C) White\n    D) Yellow"
+  ],
+  "answers": [
+    "C",
+    "C",
+    "B",
+    "C",
+    "C",
+    "B",
+    "B",
+    "C",
+    "B",
+    "C",
+    "B",
+    "C",
+    "B",
+    "C",
+    "B",
+    "C",
+    "C",
+    "C"
+  ]
+}
