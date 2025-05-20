@@ -53,3 +53,23 @@ python eval_clair.py --captions-file <the caption .json file path>
 1. [DOCCI (Onoe et al., ECCV 2024)](https://google.github.io/docci/#downloads)
 2. [ImageInWords (Garg et al., EMNLP 2024)](https://github.com/google/imageinwords)
 3. [CLAIR (Chan et al., EMNLP 2023)](https://github.com/davidmchan/clair)
+
+
+
+
+## Cite
+If you use the **CapMAS** dataset, filtering pipeline, or code from this repository, please cite the [paper](https://arxiv.org/pdf/2412.15484):
+
+```bibtex
+@article{lee2024toward,
+  title={Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage},
+  author={Lee, Saehyung and Yoon, Seunghyun and Bui, Trung and Shi, Jing and Yoon, Sungroh},
+  journal={arXiv e-prints},
+  pages={arXiv--2412},
+  year={2024}
+}
+```
+
+## License
+
+The evaluation code and needle set data is licensed under the [Adobe Research License](LICENSE). The license prohibits commercial use and allows non-commercial research use.
