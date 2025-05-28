@@ -32,7 +32,7 @@ Summarize the generated captions into a dictionary where the key is the correspo
     "test_00599.json": <caption_test_00599>,
 }
 ```
-You may refer to the [sample captions](https://github.com/david-yoon/CapMAS_private/blob/main/sample_captions/llava1.6-vicuna_llama3_th1.0/captions_final.json) for guidance.
+You may refer to the [sample captions](https://github.com/adobe-research/CapMAS/blob/master/sample_captions/llava1.6-vicuna_llama3_th1.0/captions_final.json) for guidance.
 
 ## Evaluation
 We provide the evaluation codes for the three metrics used in our paper: **Factuality**, **Coverage**, and **CLAIR** (Chan et al., EMNLP 2023). These evaluations rely on GPT-4o, so please fill in your OpenAI API key **OR** Azure OpenAI credentials in the `conf/gpt4o` file.
