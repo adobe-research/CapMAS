@@ -40,7 +40,7 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(message)s",
     handlers=[
-        logging.FileHandler(os.path.join(args.output_dir, f'eval_recall_{nn}.log')),
+        logging.FileHandler(os.path.join(args.output_dir, f'eval_coverage_{nn}.log')),
         logging.StreamHandler()
     ])
 logger = logging.getLogger()

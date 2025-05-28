@@ -35,11 +35,12 @@ def mkdir(path):
         if e.errno != errno.EEXIST:
             raise
 mkdir(args.output_dir)
+nn = args.captions_file.split('/')[-1].split('.')[0]
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s | %(message)s",
     handlers=[
-        logging.FileHandler(os.path.join(args.output_dir, 'eval_precision.log')),
+        logging.FileHandler(os.path.join(args.output_dir, f'eval_factuality_{nn}.log')),
         logging.StreamHandler()
     ])
 logger = logging.getLogger()
@@ -87,9 +88,14 @@ def generate_q(caption):
         return ""
     out = response.replace('\n\n', '\n').split('\n')
     atoms = []
+    three_queue = ["a", "b", "c"]
     for o in out:
         if o[0].isdigit() and len(o.split(". ")) > 1:
             atoms.append(o)
+            three_queue.append(o.split(". ")[1])
+            three_queue.pop(0)
+            if len(set(three_queue)) == 1 or len(o.split()) > 245:
+                return ""
     return '\n'.join(atoms)
 
 def a2l(answers):
