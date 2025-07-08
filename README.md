@@ -77,7 +77,7 @@ USER: f"Caption 1: {generated_captions[0]}
 | Method         | CLAIR | Factuality | Coverage | Avg. |
 |---------------|--------|-------|---------|------|
 | LLaVA-v1.5-7B | 62.1 | 52.8 | 40.3 | 51.7|
-| [VCD (Leng et al., 2024)](https://github.com/DAMO-NLP-SG/VCD)   |59.7  |	44.57  |	46.2  |	50.2  |
+| [VCD (Leng et al., 2024)](https://github.com/DAMO-NLP-SG/VCD)   |59.7  |	44.6  |	46.2  |	50.2  |
 | [OPERA (Huang et al., 2024)](https://github.com/shikiw/OPERA )   |59.1 |	53.0 |	40.7 |	50.9 |
 | [SPARC (Jung et al., 2025)](https://github.com/mingi000508/SPARC)| 64.7|	50.2	|44.3	|53.1|
 | [LRV (Liu et al., 2024)](https://github.com/FuxiaoLiu/LRV-Instruction)|39.7|	29.1|	43.7|	37.5|
