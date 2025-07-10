@@ -86,7 +86,7 @@ USER: f"Caption 1: {generated_captions[0]}
 
 *All methods, except for LRV and LURE, use LLaVA-v1.5-7B, while the LRV and LURE methods employ the MiniGPT-4 model as provided by their respective authors.  
 *The difference in Coverage scores compared to the paper is because we conducted an additional round of review and refinement on the VQA samples after the paper was written.  
-*These results are based solely on the IIW-400 dataset (aar_test_04600.jpg – aar_test_04999).
+*These results are based solely on the IIW-400 dataset (aar_test_04600.jpg – aar_test_04999.jpg).
 
 ## References
 1. [DOCCI (Onoe et al., ECCV 2024)](https://google.github.io/docci/#downloads)
